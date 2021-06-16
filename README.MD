@@ -9,7 +9,7 @@
     - cmd
     - ffmpeg 测试成功即可使用
 ```
-### 2. 命令
+### 2. ffmpeg命令
 ``` 
   - 指定一个 flv格式切片
   - 【03.flv】 ---> 【result2/03.m3u8】 + n个【result2\course-%%04d.ts】 
